@@ -1,0 +1,13 @@
+body{
+    background: hsl(136, 32%, 76%);
+    background: linear-gradient(90deg, rgba(218,255,227,0.6222064393939394) 0%, 
+    rgba(180,227,255,0.4654236694677871) 48%, rgba(255,206,226,0.7931547619047619) 100%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tarea{
+    display:block;
+}
+span{
+    color:rgba(153, 93, 172, 0.555);
+    text-decoration: underline;
+}
